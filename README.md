@@ -15,5 +15,5 @@ print "given arguments: ", str(sys.argv[1])
 ### `tracert` és `traceroute`
 - hbone.hu - magyarországi gerinchálózat
 - telia.net - nemzetközi hálózat
-- *  - nem adja vissza, hogy ki ő
+- `*`  - nem adja vissza, hogy ki ő
 
