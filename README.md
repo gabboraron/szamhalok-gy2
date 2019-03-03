@@ -1,4 +1,4 @@
-# sgy3
+# gy3
 
 ## `ping`
 `ttl` - time to live: 64es értékről indul ha 0zódik akkor az elveszett
