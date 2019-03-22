@@ -52,3 +52,5 @@ print "given arguments: ", str(sys.argv[1])
 - telia.net - nemzetközi hálózat
 - `*`  - nem adja vissza, hogy ki ő
 
+## Hozzá tartozó házi:
+> hf1: https://github.com/gabboraron/szamhalok-hf1-hf2#feladat1
