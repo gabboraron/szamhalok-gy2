@@ -1,4 +1,4 @@
-# gy3
+# gy2
 
 ## Shell programok hívása Pythonból
 paraméterezve hívja a `ping` utasítást, `5`ször fut le a `google.com`-ra: 
